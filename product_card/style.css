@@ -68,7 +68,7 @@ body{
 .card{
     width: 90vw;
     /* height: 90vh; */
-    max-width: 750px;
+    max-width: 650px;
     /* max-height: 750px; */
     background-color: white;
     display: grid;
