@@ -67,15 +67,12 @@ body{
 
 .card{
     width: 90vw;
-    /* height: 90vh; */
     max-width: 650px;
-    /* max-height: 750px; */
     background-color: white;
     display: grid;
     grid-template-rows: 1.5fr 2fr;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
-    /* margin-bottom: 20px; */
 }
 
 .card_header, .card_price .new_price{
@@ -96,10 +93,6 @@ body{
     color: hsl(228, 12%, 48%);
     text-transform: uppercase;
     letter-spacing: 4px;
-}
-
-.card_btn{
-    font-weight: 700;
 }
 
 .card_header{
