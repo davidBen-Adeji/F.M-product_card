@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/davidBen-Adeji/frontend_mentor/tree/main/product_card)
-- Live Site URL: [productcard](https://adorable-lokum-3724c3.netlify.app/)
+- Solution URL: [GitHub Repo](https://github.com/davidBen-Adeji/F.M-product_card)
+- Live Site URL: [Product Card](https://adorable-lokum-3724c3.netlify.app/)
 
 ## My process
 
