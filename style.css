@@ -135,6 +135,15 @@ body{
     padding: .8em 0;
     border-radius: 8px;
     margin-top: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card_btn span{
+    margin-left: 10px;
+    font-size: .9rem;
 }
 
 .card_btn:hover, .card_btn:focus{
